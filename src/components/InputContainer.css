@@ -1,0 +1,13 @@
+.Inputcontainer{
+    padding: 5px;
+    width: 80%;
+}
+
+.btn {
+    padding: 5px;
+    width: 20%;
+}
+
+*{
+    box-sizing: border-box;
+}
